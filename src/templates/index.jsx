@@ -13,7 +13,7 @@ class Home extends Component {
     posts: [],
     allPosts: [],
     page: 0,
-    postsPerpage: 10,
+    postsPerpage: 5,
 
     //crio essa chave para manipulando o evento, e coloco como vazia justamente pra checar isso com uma função, se está vazio
     searchValue: "",
